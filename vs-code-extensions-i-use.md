@@ -1,6 +1,5 @@
 Here are a list of all the extensions I use. This is an ever-changing setup, so if you saw me use something in a video or screenshot, it might be in this list!
 
-* [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 * [bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 * [project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 * [snapshot-tools](https://marketplace.visualstudio.com/items?itemName=asvetliakov.snapshot-tools)
